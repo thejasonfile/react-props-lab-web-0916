@@ -2,7 +2,6 @@ const React = require('react');
 
 class Spaceship extends React.Component {
   render(){
-    debugger;
     return(
       <div>
         <p>Name: {this.props.name}</p>
